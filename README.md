@@ -6,7 +6,6 @@ Frontend Developer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [atichat.nilchat@gmail.com](mailto:atichat.nilchat@gmail.com)
-* 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on Projects
 * ⚡  May the force be with you
 
